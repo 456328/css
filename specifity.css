@@ -1,0 +1,17 @@
+/* h1{
+    color: red!important;
+} */
+h1{
+    color: aqua;
+}
+
+
+/* #name{
+    color: blueviolet;
+} */
+h1.classes{
+    color: turquoise;
+}
+.class{
+    color: blue;
+}
